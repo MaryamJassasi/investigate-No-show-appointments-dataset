@@ -32,7 +32,7 @@ Visualize and analyze the data to understand patterns and potential relationship
 # Findings
 All analysis and result can be find in the Jupyter notbook
 
-Conclusion:
+# Conclusion:
 
 After analyzing the dataset of no-show appointments, it has been observed that Approximately 20% of patients did not attend their appointments on the scheduled day. Moreover, the number of female patients is higher than male patients. From bar charts the frequency of all patients and those who did not show up is the same for different variables like receiving SMS reminders and alcoholism. Also, more than half of the patients did not receive a reminder via SMS. The median age of attended patients(No) is higher than that of absent patients, indicating that older patients are more likely to show up. The median appointment hour for no-shows seems to be later in the day compared to appointments attended (based on the higher median line in the "No-Show" box). This suggests a trend where appointments scheduled for later hours might have a higher rate of no-shows. On most days, patients’ absences are highest on Tuesdays, followed by Wednesdays and Mondays for both groups. However, we cannot confirm any conclusions based solely on these observations. The Chi-Square test is condsider a poerful statistical tool for study association between two binary variables. Chi-squared tests have shown associations between no-shows and receiving an SMS, hypertension, diabetes, and scholarship, but no association with alcoholism.
 
